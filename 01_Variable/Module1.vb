@@ -1,4 +1,6 @@
-﻿Module Module1
+﻿Imports System.Data.SqlTypes
+
+Module Module1
 
     Sub Main()
         Const MYMESSAGE As String = "I heart Computer Science!"
@@ -9,7 +11,7 @@
 
         Const intMyAge As Integer = 15
 
-        Dim dblDouble As Integer = 4.567
+        Dim dblDouble As Double = 4.567
 
         Console.WriteLine(MYMESSAGE)
 
