@@ -27,8 +27,9 @@
         product = Firstnumber * Secoundnumber
 
         ' Greet user and display maths
-        outputMessage = String.Format("Hello, {0}. The sum of your Numbers equals {1}. The product of your numbers equals {2}." Username, sum)
-
+        outputMessage = String.Format("Hello, {0}. The sum of your Numbers equals {1}. The product of your numbers equals {2}.", Usersname, sum, product)
+        Console.WriteLine(outputMessage)
+        Console.ReadLine()
     End Sub
 
 End Module
