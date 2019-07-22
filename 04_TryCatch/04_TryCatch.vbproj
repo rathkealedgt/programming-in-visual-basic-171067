@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3F7DE5E1-5F07-4AE4-8D6E-965D44BF6FE8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_04_TryCatch.Module1</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>_04_TryCatch</RootNamespace>
     <AssemblyName>04_TryCatch</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="Main.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
