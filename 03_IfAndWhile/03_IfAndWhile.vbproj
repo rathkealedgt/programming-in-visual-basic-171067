@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4EA21C62-2F2A-43EB-96CF-DC88FC998E3B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_03_IfAndWhile.Module1</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>_03_IfAndWhile</RootNamespace>
     <AssemblyName>03_IfAndWhile</AssemblyName>
     <FileAlignment>512</FileAlignment>

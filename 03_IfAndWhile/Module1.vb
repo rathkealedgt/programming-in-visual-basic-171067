@@ -8,6 +8,16 @@ Module Module1
 
     Sub Main()
         ' Housekeeping
+        Dim userresponse As Integer
+
+        userresponse = Integercheck(1, 5)
+        Console.WriteLine("You entered the valid number {0}.", userresponse)
+
+        userresponse = Integercheck(11, 55)
+        Console.WriteLine("You entered the Valid number {0}", userresponse)
+
+        Console.ReadLine()
+
         Dim userimpot As String
         Dim keepgoing As String = ""
 
@@ -42,6 +52,7 @@ Module Module1
             End If
 
         End While
+        Return userresponse
     End Sub
 
 End Module

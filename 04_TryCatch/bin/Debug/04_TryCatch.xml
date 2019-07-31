@@ -22,13 +22,12 @@
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="M:_04_TryCatch.Main.Main">
+<member name="T:_04_TryCatch.Module1">
  <summary>
-     This exercise will introduce you to if statements and while loops.
+     This program asks the user for a number until they enter a number between 1 and 10.
  </summary>
- <author>Harry Burr </author>
- <date> 7/4/2019 </date>
- 
+ <author> Harry  </author>
+ <date> 13Jun19 </date>
 </member>
 </members>
 </doc>
