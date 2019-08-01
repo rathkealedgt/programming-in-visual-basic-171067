@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.pdb
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe.config
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\bin\Debug\LuckyUnicorn.pdb
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\bin\Debug\LuckyUnicorn.xml
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbprojAssemblyReference.cache
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\obj\Debug\LuckyUnicorn.Resources.resources
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.GenerateResource.cache
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\obj\Debug\LuckyUnicorn.exe
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\obj\Debug\LuckyUnicorn.xml
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\LuckyUnicorn\obj\Debug\LuckyUnicorn.pdb

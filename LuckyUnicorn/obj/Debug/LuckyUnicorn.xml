@@ -22,7 +22,15 @@ LuckyUnicorn
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="M:LuckyUnicorn.Module1.Main">
+<member name="M:LuckyUnicorn.Component2.Main">
+ <summary>
+     Lucky Unicorn Decomposition Task 1
+     Generate a token from a list and display it to a user 
+ </summary>
+ <author> Mr. M </author>
+ <date> 20Jun19 </date>
+</member>
+<member name="M:LuckyUnicorn.Componet1.Main">
  <summary>
      Lucky Unicorn Decomposition Task 1
      Get initial amount from user and check that it is valid.
@@ -30,7 +38,7 @@ LuckyUnicorn
  <author> Mr. M </author>
  <date> 20Jun19 </date>
 </member>
-<member name="M:LuckyUnicorn.Module1.IntegerCheck(System.Int32,System.Int32)">
+<member name="M:LuckyUnicorn.Componet1.IntegerCheck(System.Int32,System.Int32)">
  <summary>
      Integer checking function. Checks if user input is an integer between the values given.
  </summary>
