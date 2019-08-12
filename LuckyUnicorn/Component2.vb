@@ -7,18 +7,21 @@
     ''' <date> 20Jun19 </date>
     Sub Main()
         ' Housekeeping
-        Dim token As String = GetToken()
-        Console.WriteLine()
+        For counter As Integer = 0 To 15
+            Dim token As String = GetToken()
+            Console.WriteLine(token)
+        Next counter
         Console.ReadLine()
 
     End Sub
 
     Function GetToken() As String
-        Dim Token() As String = {"Horse, Zebra, Donkey, Unicorn"}
+        Dim tokens() As String = {"Horse, Zebra, Donkey, Unicorn"}
         Dim rand As Random = New Random()
-        Dim index As Integer = rand.Next(0, 4)
+        Dim index As Integer = rand.Next(0, 3)
 
-        Return Token(index)
+
+        Return tokens(index)
     End Function
 
 End Module

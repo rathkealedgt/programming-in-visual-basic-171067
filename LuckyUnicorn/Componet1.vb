@@ -1,4 +1,6 @@
 ﻿Module Componet1
+    Public Property Component3 As Object
+
     ''' <summary>
     '''     Lucky Unicorn Decomposition Task 1
     '''     Get initial amount from user and check that it is valid.
@@ -12,7 +14,8 @@
         ' Console.WriteLine("How much money would you like to insert?")
         'HowMuch = IntegerCheck(1, 10)
         'Console.ReadLine()
-        Component2.Main()
+        LuckyUnicorn.Component3.Main()
+
     End Sub
 
     ''' <summary>

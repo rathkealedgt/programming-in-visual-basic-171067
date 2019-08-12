@@ -70,7 +70,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Component2.vb" />
+    <Compile Include="component32_2.vb" />
     <Compile Include="Componet1.vb" />
+    <Compile Include="Component3.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

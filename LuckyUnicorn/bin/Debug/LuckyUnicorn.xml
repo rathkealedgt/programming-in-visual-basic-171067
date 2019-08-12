@@ -46,5 +46,13 @@ LuckyUnicorn
  <param name="HighNumber"> Upper bound of the valid range. </param>
  <returns> The valid user input as an integer. </returns>
 </member>
+<member name="M:LuckyUnicorn.Component3.Main">
+ <summary>
+     Lucky Unicorn Decomposition Task 1
+     Generate a token from a list and display it to a user 
+ </summary>
+ <author> Mr. M </author>
+ <date> 20Jun19 </date>
+</member>
 </members>
 </doc>
