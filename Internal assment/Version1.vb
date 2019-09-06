@@ -1,4 +1,4 @@
-﻿Imports System.Reflection
+﻿
 
 Module Version1
 
@@ -6,12 +6,12 @@ Module Version1
     Sub Main()
         'startup
 
-        Dim Y As String
-        Dim N As String 'sets these to be global veriables 
-        Dim UI As String = Y Or N  ' Get input
-        Genaratequestions(Y, N)
-        'Genarte question / display to user      
-        score(UI, Y, N)
+        Dim Y As String = ""
+        Dim N As String = ""   'sets these to be global veriables 
+        Dim userResponse =    ' Get input
+        Genaratequestions(Y, N) 'gose down to Genarte question  
+
+        score(userResponse, Y, N)
         'User input answer to user input
 
         'end score and output 
@@ -25,7 +25,7 @@ Module Version1
     ''' <param name="N"> vaild input for N or no </param>
     ''' <returns> The vaild user input as a string and eaither Y or N  </returns>
 
-    Function stringcheck(Y As String, N As String) As String
+    Function stringcheck(Y As String, N As String) As String 'cheacks wether or not the user has input a strig of these two values 
 
         Dim userResponse As String = Y Or N
         Const ERROR_MESSAGE As String = "Their seems to be an error please reenter your answer" 'Creats an error message if the user has not inputed corectly
@@ -76,7 +76,7 @@ Module Version1
         Dim countq9 As Integer = 0
         Dim countq10 As Integer = 0
 
-        For counter As Integer = 0 To totalscore
+        For counter As Integer = 0 To totalscore '
 
 
 
@@ -161,9 +161,9 @@ Module Version1
         'socore calculations 
 
         Console.WriteLine(vbNewLine & String.Format(" {0}.", totalscore))
-        Console.WriteLine("Your score is {0}", totalscore)
+        Console.WriteLine("Your score is {0}", totalscore) 'displays your total score 
 
-
+        '
         Console.WriteLine(vbNewLine & "**** win / loss calculations ****")
         Console.WriteLine("  q1 = {0}", countq1)
         Console.WriteLine("  q2 = {0}", countq2)
@@ -193,11 +193,11 @@ Module Version1
         Dim rand As Random = New Random()
         Dim index As Integer = rand.Next(0, 10)
 
-        Dim q1 As Integer = "Was the ** President of the United Stats Donald Trump"
+        Dim q1 As Integer = "Was the 50 President of the United Stats Donald Trump"
         q1 = Y
         Dim q2 As Integer = "Is Our sun a Star"
         q2 = Y
-        Dim q3 As Integer = ""
+        Dim q3 As Integer = "was Captin Cook the first to discover New Zealand"
         q3 = N
         Dim q4 As Integer = "Is Our sun a Star"
         q4 = Y
@@ -213,6 +213,7 @@ Module Version1
         q9 = Y
         Dim q10 As Integer = "Is Our sun a Star"
         q10 = Y
+        Console.WriteLine()
 
         For counter As Integer = q1 To q10 'Gose through the questions 
             Console.WriteLine(questions)

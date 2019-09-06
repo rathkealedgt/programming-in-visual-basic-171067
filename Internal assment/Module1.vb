@@ -1,16 +1,12 @@
 ﻿Module component
 
     Sub Main()
-        'startup 
-        Dim UI As String  ' Get input
-        Dim Y As String
-        Dim N As String
-        Version1.Main(Y, N, UI)
-        'Genarte question / display to user      
 
-        'User input answer to user input
+        'Gose to version 1 of the code 
+        Version1.Main()
 
-        'end score and output 
+
+        'Global Veriables 
 
     End Sub
 

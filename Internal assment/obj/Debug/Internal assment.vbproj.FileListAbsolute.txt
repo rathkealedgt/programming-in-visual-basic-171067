@@ -9,3 +9,10 @@ C:\Users\Gaming Laptop\source\repos\Internal\Internal assment\bin\Debug\Internal
 C:\Users\Gaming Laptop\source\repos\Internal\Internal assment\obj\Debug\Internal assment.exe
 C:\Users\Gaming Laptop\source\repos\Internal\Internal assment\obj\Debug\Internal assment.xml
 C:\Users\Gaming Laptop\source\repos\Internal\Internal assment\obj\Debug\Internal assment.pdb
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.vbprojAssemblyReference.cache
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal_assment.Resources.resources
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.vbproj.GenerateResource.cache
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.vbproj.CoreCompileInputs.cache
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.exe
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.xml
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.pdb
