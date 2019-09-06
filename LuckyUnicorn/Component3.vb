@@ -19,15 +19,15 @@
             Dim token As String = GetToken()
 
             If token = "Unicorn" Then
-                countUnicorn += 1
+                countUnicorn += 5
 
             ElseIf token = "Donkey" Then
-                countDonkey += 1
+                countDonkey -= 1
 
             ElseIf token = "Horse" Then
-                countHorse += 1
+                countHorse += 0.5
             Else
-                countZebra += 1
+                countZebra += 0.5
             End If
             Console.WriteLine(token)
         Next counter

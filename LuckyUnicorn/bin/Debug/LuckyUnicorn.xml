@@ -22,6 +22,14 @@ LuckyUnicorn
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="M:LuckyUnicorn.LuckeyUnicornV1.IntegerCheck(System.Int32,System.Int32)">
+ <summary>
+     Integer checking function. Checks if user input is an integer between the values given.
+ </summary>
+ <param name="LowNumber"> Lower bound of the valid range. </param>
+ <param name="HighNumber"> Upper bound of the valid range. </param>
+ <returns> The valid user input as an integer. </returns>
+</member>
 <member name="M:LuckyUnicorn.Component2.Main">
  <summary>
      Lucky Unicorn Decomposition Task 1
@@ -53,6 +61,14 @@ LuckyUnicorn
  </summary>
  <author> Mr. M </author>
  <date> 20Jun19 </date>
+</member>
+<member name="M:LuckyUnicorn.Luckey_UnicornV1.IntegerCheck(System.Int32,System.Int32)">
+ <summary>
+     Integer checking function. Checks if user input is an integer between the values given. 
+ </summary>
+ <param name="LowNumber"> Lower bound of the valid range. </param>
+ <param name="HighNumber"> Upper bound of the valid range. </param>
+ <returns> The valid user input as an integer. </returns>
 </member>
 </members>
 </doc>

@@ -1,28 +1,19 @@
-﻿Module Componet1
+﻿Module LuckeyUnicornV1
 
-    ''' <summary>
-    '''     Lucky Unicorn Decomposition Task 1
-    '''     Get initial amount from user and check that it is valid.
-    ''' </summary>
-    ''' <author> Mr. M </author>
-    ''' <date> 20Jun19 </date>
     Sub Main()
-        Luckey_UnicornV1.Main()
-        ' Housekeeping
-        ' Dim HowMuch As Integer
 
-        ' Console.WriteLine("How much money would you like to insert?")
-        'HowMuch = IntegerCheck(1, 10)
-        'Console.ReadLine()
 
 
     End Sub
+
+
     ''' <summary>
     '''     Integer checking function. Checks if user input is an integer between the values given.
     ''' </summary>
     ''' <param name="LowNumber"> Lower bound of the valid range. </param>
     ''' <param name="HighNumber"> Upper bound of the valid range. </param>
     ''' <returns> The valid user input as an integer. </returns>
+
     Function IntegerCheck(LowNumber As Integer, HighNumber As Integer) As Integer
         'Housekeeping
         Dim UserResponse As Integer
@@ -54,5 +45,3 @@
     End Function
 
 End Module
-
-
