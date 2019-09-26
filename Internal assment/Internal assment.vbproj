@@ -69,6 +69,9 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="End_Game.vb" />
+    <Compile Include="GenarateQandA.vb" />
+    <Compile Include="Main_Loop.vb" />
     <Compile Include="Version1.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="Module3.vb" />
@@ -88,6 +91,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Welcome.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

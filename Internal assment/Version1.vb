@@ -6,11 +6,11 @@ Module Version1
     Sub Main()
         'startup
 
-        Dim Y As String = ""
-        Dim N As String = ""   'sets these to be global veriables 
-        Dim userResponse =    ' Get input
-        Genaratequestions(Y, N) 'gose down to Genarte question  
 
+        Dim userResponse As String =    ' Get input
+        dim QandA as string() = Genaratequestions("Yes", "No") 'gose down to Genarte question  
+
+                     
         score(userResponse, Y, N)
         'User input answer to user input
 
@@ -187,14 +187,15 @@ Module Version1
     End Sub
 
     '*********************************************************************************************************************************************************************************************************
-    Function Genaratequestions(Y, N)
+    Function Genaratequestions(Y As String, N As String) As String()
 
-        Dim questions() As String = {"q1", "q2", "q2", "q3", "q4", "q5", "q6", "q7", "q8", "q9", "q10"} 'the questions that will be given to the user 
+        Dim QandA(19) As String 'the questions that will be given to the user 
         Dim rand As Random = New Random()
         Dim index As Integer = rand.Next(0, 10)
 
-        Dim q1 As Integer = "Was the 50 President of the United Stats Donald Trump"
-        q1 = Y
+        QandA(0) = "Was the 50 President of the United Stats Donald Trump?"
+        QandA(1) = N
+
         Dim q2 As Integer = "Is Our sun a Star"
         q2 = Y
         Dim q3 As Integer = "was Captin Cook the first to discover New Zealand"
@@ -221,7 +222,7 @@ Module Version1
         Console.ReadLine()
 
 
-        Return questions(index) 'gives a selected question
+        Return QandA 'gives a selected question
     End Function
 
 End Module

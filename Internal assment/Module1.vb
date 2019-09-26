@@ -3,7 +3,7 @@
     Sub Main()
 
         'Gose to version 1 of the code 
-        Version1.Main()
+        Welcome.main()
 
 
         'Global Veriables 

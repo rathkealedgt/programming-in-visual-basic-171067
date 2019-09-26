@@ -8,7 +8,7 @@
         Dim keepgoing As String = ""
 
         While keepgoing = ""
-            questions = Getquestions()
+            questions = Version1.Genaratequestions("Yes", "No")
 
             If questions = "q1" And userResponse = Y Then 'if the questioon is q1 and that the user response was Y then they get an extra score of 1 
                 totalscore += 1
