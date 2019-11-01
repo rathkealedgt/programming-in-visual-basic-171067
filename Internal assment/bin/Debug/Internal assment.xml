@@ -22,7 +22,7 @@ Internal assment
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="M:Internal_assment.component.stringCheck(System.String,System.String)">
+<member name="M:Internal_assment.component.stringcheck(System.String,System.String)">
  <summary>
   String cheacking function. Will cheack if user input is an string eathier Y or N 
  </summary>

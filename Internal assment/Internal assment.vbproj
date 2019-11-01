@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0FC918E7-E596-48F8-AE7F-FD35E8B62952}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Sub Main</StartupObject>
+    <StartupObject>Internal_assment.Main_Loop</StartupObject>
     <RootNamespace>Internal_assment</RootNamespace>
     <AssemblyName>Internal assment</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -72,10 +72,7 @@
     <Compile Include="End_Game.vb" />
     <Compile Include="GenarateQandA.vb" />
     <Compile Include="Main_Loop.vb" />
-    <Compile Include="Version1.vb" />
     <Compile Include="Module1.vb" />
-    <Compile Include="Module3.vb" />
-    <Compile Include="Module3V2.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

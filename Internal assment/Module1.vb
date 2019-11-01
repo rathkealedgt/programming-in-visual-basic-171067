@@ -3,10 +3,13 @@
     Sub Main()
 
         'Gose to version 1 of the code 
-        Welcome.main()
-
+        Welcome.welcomemessage()
 
         'Global Veriables 
+        Dim Y As String
+        Dim N As String
+        Dim QandA As String
+        ' Main_Loop.Main(Y As String , N As String , QandA As String ) As String 
 
     End Sub
 
@@ -52,4 +55,3 @@
     '*********************************************************************************************************************************************************************************************************
 
 End Module
-

@@ -16,3 +16,7 @@ C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Inter
 C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.exe
 C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.xml
 C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\obj\Debug\Internal assment.pdb
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\bin\Debug\Internal assment.exe.config
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\bin\Debug\Internal assment.exe
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\bin\Debug\Internal assment.pdb
+C:\Users\Gaming Laptop\Documents\GitHub\programming-in-visual-basic-171067\Internal assment\bin\Debug\Internal assment.xml
